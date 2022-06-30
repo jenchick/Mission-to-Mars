@@ -298,7 +298,7 @@ hemisphere_image_urls = []
 
 
 # Copied this portion of code with Nick Foley's permission during Office Hours on 6/25/2022 
-#after he walked through it for me to help me understand the process.
+# after he walked through it for me to help me understand the process.
 
 for i in range(4):
     # Create empty dict
