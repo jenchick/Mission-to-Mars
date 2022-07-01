@@ -14,5 +14,7 @@ Use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemi
 ## Results:
 ![image](https://user-images.githubusercontent.com/102322707/176818002-e09c2697-9148-41d0-8f6a-f49c7fe2fd3e.png)
 
+I did attempt to change the table structure using Bootstrap to edit the table style to <table class="table table-dark">, but I did not get the results I expected.
+
 ## Resources:
-Beautiful Soup, Splinter, MongoDB, 
+Software: Jupyter notebook, Visual Studio Code, Python 3.6.1, conda 4.12.0, flask, Beautiful Soup, Splinter, MongoDB, 
