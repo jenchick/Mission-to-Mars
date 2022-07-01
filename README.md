@@ -25,4 +25,8 @@ Deliverable 3:
 Note: I did attempt to change the table structure using Bootstrap to edit the table style to "table table-dark" (from https://getbootstrap.com/docs/4.0/content/tables/), but I did not get the results I expected.
 
 ## Resources:
-Jupyter notebook, Visual Studio Code, Python 3.7 (64-bit), HTML/CSS, flask, Beautiful Soup, Splinter, MongoDB, Chrome Developer Tools
+Data Sources: Mission_to_Mars_Challenge.ipynb, app.py, scraping.py, index.html
+
+Software: Jupyter notebook, Visual Studio Code, Python 3.7 (64-bit), Flask,  MongoDB 
+
+Also: HTML/CSS, Beautiful Soup, Splinter, Chrome Developer Tools
