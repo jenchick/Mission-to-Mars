@@ -1,4 +1,4 @@
-# Mission-to-Mars with Web Scraping
+# Mission-to-Mars: Web Scraping with HTML/CSS
 
 ## Overview: 
 Update the web app previously created in this module to showcase facts, images, and the latest new about the planet Mars.
@@ -14,7 +14,15 @@ Use BeautifulSoup and Splinter to scrape full-resolution images of Mars’s hemi
 ## Results:
 ![image](https://user-images.githubusercontent.com/102322707/176818002-e09c2697-9148-41d0-8f6a-f49c7fe2fd3e.png)
 
-I did attempt to change the table structure using Bootstrap to edit the table style to <table class="table table-dark">, but I did not get the results I expected.
+Deliverable 1 & 2:
+
+- I was able to scrape the full-resolution Mars hemisphere images and titles, along with updating the Web App with the like.
+
+Deliverable 3:
+
+- I confirmed that the webpage was mobile-responsive.
+- I used two Bootstrap 3 components to update the style of the webpage.  I changed the "Web Scraping" button color to purple, and the background of the container to a light aqua color.  In addition, I changed the container color for the "Mars Facts" to a light beige color.  
+Note: I did attempt to change the table structure using Bootstrap to edit the table style to "table table-dark" (from https://getbootstrap.com/docs/4.0/content/tables/), but I did not get the results I expected.
 
 ## Resources:
-Software: Jupyter notebook, Visual Studio Code, Python 3.6.1, conda 4.12.0, flask, Beautiful Soup, Splinter, MongoDB, 
+Jupyter notebook, Visual Studio Code, Python 3.7 (64-bit), HTML/CSS, flask, Beautiful Soup, Splinter, MongoDB, Chrome Developer Tools
